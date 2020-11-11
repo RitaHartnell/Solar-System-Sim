@@ -13,9 +13,141 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-11-11T13:19:45.870-05:00
+  lastUpdatedAtString: 2020-11-11T13:24:59.352-05:00
   initializedAtString: 2020-11-11T13:14:44.586-05:00
   log:
+  - commitID: 6e74957a7e41fe2084baaccfb91ceb85937c31cb
+    mergeA: 
+    mergeB: 
+    authorName: Melody Soriano
+    authorEmail: mel.soriano6123@gmail.com
+    commitEmail: mel.soriano6123@gmail.com
+    commitName: Melody Soriano
+    summary: added point light
+    description: 
+    timeString: 2020-11-11T13:24:50.000-05:00
+    commitTimeString: 2020-11-11T13:24:50.000-05:00
+    changes:
+    - path: Assets\Materials\Sun Material.mat
+      fullPath: C:\Users\melso\Solar System Sim\Assets\Materials\Sun Material.mat
+      projectPath: Assets\Materials\Sun Material.mat
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\Solar System.unity
+      fullPath: C:\Users\melso\Solar System Sim\Assets\Scenes\Solar System.unity
+      projectPath: Assets\Scenes\Solar System.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\Artifacts\ef\efb5e8fdbd73b652160ba306368cc580
+      fullPath: C:\Users\melso\Solar System Sim\Library\Artifacts\ef\efb5e8fdbd73b652160ba306368cc580
+      projectPath: Library\Artifacts\ef\efb5e8fdbd73b652160ba306368cc580
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\8\8322caea7865e3171dbf9ffdcc889bdd.bin
+      fullPath: C:\Users\melso\Solar System Sim\Library\ShaderCache\8\8322caea7865e3171dbf9ffdcc889bdd.bin
+      projectPath: Library\ShaderCache\8\8322caea7865e3171dbf9ffdcc889bdd.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\9\92f0fa667c619d6798a31dfad1a80e74.bin
+      fullPath: C:\Users\melso\Solar System Sim\Library\ShaderCache\9\92f0fa667c619d6798a31dfad1a80e74.bin
+      projectPath: Library\ShaderCache\9\92f0fa667c619d6798a31dfad1a80e74.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\a\a3f86950203915dca91136c82337fd35.bin
+      fullPath: C:\Users\melso\Solar System Sim\Library\ShaderCache\a\a3f86950203915dca91136c82337fd35.bin
+      projectPath: Library\ShaderCache\a\a3f86950203915dca91136c82337fd35.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\ShaderCache\e\e5106fd391dfed93e24d3262ddd72814.bin
+      fullPath: C:\Users\melso\Solar System Sim\Library\ShaderCache\e\e5106fd391dfed93e24d3262ddd72814.bin
+      projectPath: Library\ShaderCache\e\e5106fd391dfed93e24d3262ddd72814.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\melso\Solar System Sim\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\c80bd7-mainStage.json
+      fullPath: C:\Users\melso\Solar System Sim\Library\StateCache\Hierarchy\c80bd7-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\c80bd7-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\eb7077-mainStage.json
+      fullPath: C:\Users\melso\Solar System Sim\Library\StateCache\SceneView\eb7077-mainStage.json
+      projectPath: Library\StateCache\SceneView\eb7077-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\melso\Solar System Sim\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\melso\Solar System Sim\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\melso\Solar System Sim\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\melso\Solar System Sim\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\melso\Solar System Sim\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\melso\Solar System Sim\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: C:\Users\melso\Solar System Sim\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      fullPath: C:\Users\melso\Solar System Sim\Library\shadercompiler-UnityShaderCompiler.exe8.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
+      fullPath: C:\Users\melso\Solar System Sim\Library\shadercompiler-UnityShaderCompiler.exe9.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Temp\__Backupscenes\0.backup
+      fullPath: C:\Users\melso\Solar System Sim\Temp\__Backupscenes\0.backup
+      projectPath: Temp\__Backupscenes\0.backup
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 6dadc2f7f1ae54a5cecf7fd5ec239f40870145a3
     mergeA: 
     mergeB: 
